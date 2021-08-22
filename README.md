@@ -1,6 +1,7 @@
 # 04 Web APIs: Code Quiz
 https://jtdizzle.github.io/04-Web-APIs-Code-Quiz/
-(https://user-images.githubusercontent.com/87590712/130339612-2ac894b9-0916-4e33-b13f-fba5f84f7846.png)
+![Screenshot 2021-08-21 221121](https://user-images.githubusercontent.com/87590712/130339644-1e737076-3dc8-485c-9a9e-c40adb6c95ca.png)
+
 
 
 To help familiarize you with these tests and allow you to use the skills covered in this unit, this week’s homework invites you to build a timed coding quiz with multiple-choice questions. This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean, polished, and responsive user interface. 
